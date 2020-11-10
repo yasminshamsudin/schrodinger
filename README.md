@@ -32,7 +32,7 @@ ${SCHRODINGER}/utilities/multisim
 
 <h4>b)	Change </h4>
 -HOST "dummy-gpu-host" (including the brackets!)
-To 
+to 
 -HOST localhost (no brackets!)
 
 <h4>c)	Add the -WAIT command somewhere in the command.</h4>
