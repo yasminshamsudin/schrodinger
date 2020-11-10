@@ -31,7 +31,7 @@ to
 ${SCHRODINGER}/utilities/multisim
 
 <h4>b)	Change </h4>
--HOST "<dummy-gpu-host>" 
+-HOST "/<dummy-gpu-host/>" 
 To 
 -HOST localhost
 
