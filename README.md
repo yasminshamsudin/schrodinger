@@ -31,9 +31,9 @@ to
 ${SCHRODINGER}/utilities/multisim
 
 <h4>b)	Change </h4>
--HOST "/<dummy-gpu-host/>" 
+-HOST "dummy-gpu-host" (including the brackets!)
 To 
--HOST localhost
+-HOST localhost (no brackets!)
 
 <h4>c)	Add the -WAIT command somewhere in the command.</h4>
 
