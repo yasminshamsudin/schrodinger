@@ -1,6 +1,6 @@
 # schrodinger
 
-<b>For Sherlock users who have prepared their simulations on desktop versions of Schrodinger</b>
+<b>For Sherlock users who have prepared their simulations on desktop versions of Schrodinger (Note: The runSchrodingerGeneral.sh automates these steps)</b>
 
 If the user prepare the system for simulations they can write the input files for the simulations and upload them to Schrodinger. The file with the .sh filetype contains the run command for Schrodinger. It can look something like this:
 
