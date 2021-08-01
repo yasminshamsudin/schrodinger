@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # By Yasmin 2020-02-04
+# 2021-08-01 Formatting changes
 
 # This script creates replicates of the Schrodinger-prepared MD-files
 
